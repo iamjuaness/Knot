@@ -9,6 +9,7 @@
 	<img src="https://img.shields.io/github/last-commit/iamjuaness/Knot?style=flat-square&logo=git&logoColor=white&color=09f79f" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/iamjuaness/Knot?style=flat-square&color=09f79f" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/iamjuaness/Knot?style=flat-square&color=09f79f" alt="repo-language-count">
+	<img src="https://jitpack.io/v/iamjuaness/Knot.svg" alt="repo-jar">
 </p>
 <p align="left">Built with the tools and technologies:</p>
 <p align="left">
