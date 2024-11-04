@@ -246,7 +246,7 @@ public class KnotExample {
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://github.com/iamjuaness/knot/blob/master/LICENSE) file.
+This project is protected under the [Mit License](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://github.com/iamjuaness/knot/blob/master/LICENSE) file.
 
 ---
 
