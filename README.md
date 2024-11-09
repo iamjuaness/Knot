@@ -2,7 +2,7 @@
 <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>KNOT</h1>
 <p align="left">
-	<em><code>❯ Knot is a Java library designed to model and visualize complex structures, such as knots, molecules and helical structures. Inspired by knot theory, this library allows you to graphically represent links between nodes with specific crossings, which is ideal for visually exploring patterns and connections in two-dimensional graphs.</code></em>
+	<em><code>❯ Knot is a Java library and data structure designed to model, save data and visualize complex structures, such as knots, molecules and helical structures. Inspired by knot theory, this library allows you to graphically represent links between nodes with specific crossings, which is ideal for visually exploring patterns and connections in two-dimensional graphs.</code></em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/iamjuaness/Knot?style=flat-square&logo=opensourceinitiative&logoColor=white&color=09f79f" alt="license">
