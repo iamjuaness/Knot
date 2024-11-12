@@ -6,7 +6,7 @@
 
     <groupId>com.knot</groupId>
     <artifactId>knotgraph</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
 
     <name>Knot Library</name>
     <description>A library for creating and visualizing knots and molecular structures in Java.</description>
@@ -34,16 +34,6 @@
     </developers>
 
     <dependencies>
-        <dependency>
-            <groupId>org.apache.xmlgraphics</groupId>
-            <artifactId>batik-swing</artifactId>
-            <version>1.16</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.xmlgraphics</groupId>
-            <artifactId>batik-transcoder</artifactId>
-            <version>1.16</version>
-        </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
