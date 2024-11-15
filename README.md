@@ -177,19 +177,7 @@ dependencies {
 This example shows how to create a Trefoil Knot and visualize it using the `KnotVisualizer` class:
 
 ````class
-import knot.KnotGraph;
-import knot.KnotLibrary;
-import knot.KnotVisualizer;
 
-public class KnotExample {
-    public static void main(String[] args) {
-        // Create the eight knot graph
-        KnotGraph eightKnot= KnotLibrary.createFigureEightKnot();
-
-        // Visualize the knot in a graphical window.
-        KnotVisualizer.visualizeKnot(eightKnot);
-    }
-}
 ````
 
 ---
