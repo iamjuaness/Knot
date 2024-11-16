@@ -58,16 +58,21 @@ Knot is a Java library developed for creating and exploring graph-based structur
 ```sh
 └── Knot/
     ├── LICENSE
+    ├── README.md
     ├── pom.xml
     └── src
         └── main
             └── java
                 └── knot
-                    ├── KnotEdge.java
-                    ├── KnotGraph.java
-                    ├── KnotLibrary.java
-                    ├── KnotNode.java
-                    └── KnotVisualizer.java
+                    └── exception
+			├── KnotExcepcion.java
+                    └── factory
+			├── KnotFactory.java
+                    └── model
+			├── Crossing.java
+			├── DataKnot.java
+                    └── utils
+			├── KnotUtils.java
 ```
 
 
