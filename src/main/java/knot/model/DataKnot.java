@@ -1,5 +1,8 @@
 package knot.model;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -9,6 +12,8 @@ import java.util.function.Predicate;
  * de almacenar datos en sus cruces.
  * @param <T> Tipo de dato a almacenar en los cruces del nudo
  */
+@Getter
+@Setter
 public class DataKnot<T> {
     private Crossing<T> start;
     private int crossingCount;
